@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AlignTextView">
+        <attr name="align_text" format="string" />
+        <attr name="align_text_size" format="dimension" />
+        <attr name="align_text_color" format="color" />
+    </declare-styleable>
+</resources>
